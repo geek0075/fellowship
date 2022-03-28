@@ -17,6 +17,8 @@ fellowship_trec50_text_classifier_tf.ipynb
 
 https://colab.research.google.com/github/geek0075/fellowship/blob/main/fellowship_trec50_text_classifier_tf.ipynb
 
+### How to Load Notebook Data
+
 The data is hosted on my Google drive account as colab does not (as far as I know) offer storage. So if you try to run each notebook, you may not succeed because you cannot load the data from my own Google drive. You can download the data and host on your own drive using the link here:
 
 https://drive.google.com/drive/folders/1S-6uq045BF37Se7zIyjPwv5xFp8GiuHE?usp=sharing
